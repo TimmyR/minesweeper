@@ -6,5 +6,5 @@ by navigating to the file folder and typing:
     
     pip3 install -e .
 	
-You can then run the game by typing `minesweeper` in the command line.    
+You can then run the game by typing "minesweeper" in the command line.    
 You need to have the numpy package installed on your computer.
