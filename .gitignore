@@ -1,0 +1,7 @@
+#Installation files
+minesweeper.egg-info/
+
+#Python compile files
+__pycache__/
+*.py[cod]
+*$py.class
